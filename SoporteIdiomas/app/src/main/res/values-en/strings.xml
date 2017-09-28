@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Language Support</string>
+    <string name="btn1" translatable="false">Accept</string>
+    <string name="btn2" translatable="false">Delete</string>
+    <string name="btn3" translatable="false">Update</string>
+    <string name="holamundo" translatable="false">!My Language Aplplication!</string>
+</resources>
